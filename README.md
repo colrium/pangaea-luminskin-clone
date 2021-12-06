@@ -26,4 +26,4 @@ open `http://localhost:3000`
 
 ## Production
 
-[https://colrium-lumin-clone.netlify.app/](https://colrium-lumin-clone.netlify.app/)
+[https://pangaea-luminskin-clone.netlify.app/](https://pangaea-luminskin-clone.netlify.app/)
